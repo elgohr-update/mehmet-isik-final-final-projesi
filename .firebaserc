@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "finalprojesi-86f87": {
+      "hosting": {
+        "finalprojesi": [
+          "finalprojesi-86f87"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "finalprojesi-86f87"
+  }
+}
